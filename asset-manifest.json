@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cryptoBoat/static/css/main.109cebc0.css",
+    "main.js": "/cryptoBoat/static/js/main.e3710e4e.js",
+    "static/js/787.0670a01a.chunk.js": "/cryptoBoat/static/js/787.0670a01a.chunk.js",
+    "index.html": "/cryptoBoat/index.html",
+    "main.109cebc0.css.map": "/cryptoBoat/static/css/main.109cebc0.css.map",
+    "main.e3710e4e.js.map": "/cryptoBoat/static/js/main.e3710e4e.js.map",
+    "787.0670a01a.chunk.js.map": "/cryptoBoat/static/js/787.0670a01a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.109cebc0.css",
+    "static/js/main.e3710e4e.js"
+  ]
+}
